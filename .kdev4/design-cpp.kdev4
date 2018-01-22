@@ -1,0 +1,20 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x14\x00d\x00e\x00s\x00i\x00g\x00n\x00-\x00c\x00p\x00p)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index=0
+ProjectRootRelative=./
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=file:///home/yunzhongke/project/test/design-cpp/build
+Build Type=Debug
+CMake Binary=file:///usr/local/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=
+
+[Defines And Includes][Compiler]
+Name=GCC
+Path=gcc
+Type=GCC
